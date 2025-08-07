@@ -4,7 +4,7 @@
 
 Quando um advogado inicia suas **atividades em escritório de advocacia na modalidade de associado**, frequentemente se deparam com a tarefa de analisar peças processuais que **não redigiram**. Essa falta de familiaridade com os pedidos já formulados e a dificuldade de compreender decisões complexas pode gerar insegurança — especialmente ao identificar **omissões**, **contradições** ou **pontos passíveis de embargos de declaração**.
 
-Pensando nessa dor prática, desenvolvi um projeto que **automatiza a leitura e análise comparativa entre a petição/contestação e a sentença**, oferecendo como resultado:
+Pensando nessa dor prática, desenvolvi um projeto que **auxilia na leitura e análise comparativa entre a petição/contestação e a sentença**, oferecendo como resultado:
 
 - Um resumo claro dos pedidos  
 - Uma **tabela comparativa completa**  
@@ -87,18 +87,17 @@ Responda com clareza, sem criar informações inexistentes se o dado não estive
   4. Pagamento das verbas rescisórias deferido, com algumas especificações.
   5. Estabilidade provisória reconhecida, com indenização substitutiva.
   6. Indenização por danos morais fixada em R$ 150.000,00; ressarcimento de despesas médicas condicionado à comprovação.
-  7. Perícia médica realizada, mas não há menção específica à perícia psiquiátrica judicial.
-  8. Emissão da CAT determinada.
-  9. Honorários advocatícios fixados em 10% para ambas as partes.
-  10. Custas processuais a cargo da ré.
-  11. Provas produzidas e consideradas.
+  7. Emissão da CAT determinada.
+  8. Honorários advocatícios fixados em 10% para ambas as partes.
+  9. Custas processuais a cargo da ré.
+  10. Provas produzidas e consideradas.
 
 - **Indicação de eventuais omissões, contradições ou obscuridades:**
   - Não há menção específica à projeção da data de saída para 09/03/2026.
   - A decisão não menciona a multa do art. 467 da CLT.
 
 - **Fundamentação sobre o cabimento de embargos de declaração:**
-  - Cabem embargos de declaração para esclarecer a ausência de menção à projeção da data de saída para 09/03/2026 e à designação de perícia psiquiátrica judicial, bem como a omissão sobre a multa do art. 467 da CLT.
+  - Cabem embargos de declaração para esclarecer a ausência de menção à projeção da data de saída para 09/03/2026, bem como a omissão sobre a multa do art. 467 da CLT.
 
 🔹 Parte 2 – Tabela Comparativa
 
