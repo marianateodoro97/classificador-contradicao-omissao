@@ -1,8 +1,8 @@
-# ⚖️ Detector de Omissões e Contradições em Decisões Judiciais com IA
+# ⚖️ Classificador de contradições e/ou omissões em decisões judiciais
 
 ## 💡 Motivação
 
-Quando advogados iniciam a carreira como **associados em escritórios de advocacia**, frequentemente se deparam com a tarefa de analisar peças processuais que **não redigiram**. Essa falta de familiaridade com os pedidos já formulados e a dificuldade de compreender decisões complexas pode gerar insegurança — especialmente ao identificar **omissões**, **contradições** ou **pontos passíveis de embargos de declaração**.
+Quando um advogado inicia suas **atividades em escritório de advocacia na modalidade de associado**, frequentemente se deparam com a tarefa de analisar peças processuais que **não redigiram**. Essa falta de familiaridade com os pedidos já formulados e a dificuldade de compreender decisões complexas pode gerar insegurança — especialmente ao identificar **omissões**, **contradições** ou **pontos passíveis de embargos de declaração**.
 
 Pensando nessa dor prática, desenvolvi um projeto que **automatiza a leitura e análise comparativa entre a petição/contestação e a sentença**, oferecendo como resultado:
 
