@@ -2,7 +2,7 @@
 
 ## 💡 Motivação
 
-Quando um advogado inicia suas **atividades em escritório de advocacia na modalidade de associado**, frequentemente se deparam com a tarefa de analisar peças processuais que **não redigiram**. Essa falta de familiaridade com os pedidos já formulados e a dificuldade de compreender decisões complexas pode gerar insegurança — especialmente ao identificar **omissões**, **contradições** ou **pontos passíveis de embargos de declaração**.
+Quando um advogado inicia suas **atividades em escritório de advocacia na modalidade de associado**, frequentemente se depara com a tarefa de analisar peças processuais que **não redigiu**. Essa falta de familiaridade com os pedidos já formulados e a dificuldade de compreender decisões complexas pode gerar insegurança — especialmente ao identificar **omissões**, **contradições** ou **pontos passíveis de embargos de declaração**.
 
 Pensando nessa dor prática, desenvolvi um projeto que **auxilia na leitura e análise comparativa entre a petição/contestação e a sentença**, oferecendo como resultado:
 
